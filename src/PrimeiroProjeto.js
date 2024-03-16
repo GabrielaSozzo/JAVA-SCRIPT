@@ -1,5 +1,5 @@
 let nomeUsuario = "Gabriela"
-let xpUsuario = 10000
+let xpUsuario = 9980
 let nivelUsuario = ""
 
 if (xpUsuario <= 1000) {
